@@ -4,6 +4,7 @@ title: Maximize a Participação no Seu Evento Escolar
 subtitle: Coordenação de Voluntários para o Bazar da Escola sem Complicações
 tags: [Coordenação de Eventos, Voluntariado Escolar]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Dor de Cabeça na Coordenação de Voluntários para o Bazar Escolar

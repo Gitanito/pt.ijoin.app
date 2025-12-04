@@ -4,6 +4,7 @@ title: Pare de Perguntar Quem Vem - A Solução para Seus Eventos Esportivos
 subtitle: Organize seu Public Viewing ou Churrasco de Jogo com Confirmações Rápidas e Sem Complicações
 tags: [Organização de Eventos, Public Viewing Fácil]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Confusão para Organizar um Public Viewing - Garanta a Presença para o Próximo Grande Jogo

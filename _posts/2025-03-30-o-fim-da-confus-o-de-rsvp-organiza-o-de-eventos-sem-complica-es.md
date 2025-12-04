@@ -4,6 +4,7 @@ title: O Fim da Confusão de RSVP - Organização de Eventos Sem Complicações
 subtitle: Crie Seu Evento e Maximize a Presença em Minutos com uma Ferramenta Gratuita
 tags: [organização de eventos, RSVP fácil]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Grupos de WhatsApp Caóticos - Confirme Presenças para Seu Churrasco em 3 Cliques

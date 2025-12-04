@@ -4,6 +4,7 @@ title: O Fim da Confusão de RSVP - Convide Amigos em Segundos
 subtitle: Como organizar encontros de última hora sem a dor de cabeça dos grupos de WhatsApp
 tags: [organizacao-eventos, encontros-sociais]
 author: ijoin.app
+language: pt
 ---
 
 # O Coordenador de Última Hora - Organize Seus Eventos Sociais Sem Esforço

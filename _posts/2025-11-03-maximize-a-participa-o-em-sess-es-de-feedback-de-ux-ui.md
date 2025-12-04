@@ -4,6 +4,7 @@ title: Maximize a Participação em Sessões de Feedback de UX-UI
 subtitle: Convide Usuários para Testes de Protótipos Sem Complicações de Login ou Cadastro
 tags: [UX Design, Organização de Eventos]
 author: ijoin.app
+language: pt
 ---
 
 # Acabe com o Vazio da Confirmação - Como Garantir Presença em Suas Sessões de Feedback de Produto

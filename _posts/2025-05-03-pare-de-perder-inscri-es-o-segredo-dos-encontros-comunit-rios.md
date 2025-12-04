@@ -4,6 +4,7 @@ title: Pare de Perder Inscrições - O Segredo dos Encontros Comunitários
 subtitle: Simplifique a Gestão de Eventos e Aumente a Participação em Suas Sessões de Skill-Share
 tags: [gestao-de-eventos, skill-share]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Complicações na Gestão de Eventos Comunitários

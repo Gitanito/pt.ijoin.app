@@ -4,6 +4,7 @@ title: Simplifique a Inscrição do Seu Curso de Cerâmica - Chega de Complicaç
 subtitle: Maximize as Inscrições para o Seu Próximo Workshop de Artesanato e Terapia
 tags: [organização de eventos, cursos de cerâmica]
 author: ijoin.app
+language: pt
 ---
 
 # Transforme Seu Bio do Instagram em Uma Máquina de Inscrições para Cursos de Cerâmica

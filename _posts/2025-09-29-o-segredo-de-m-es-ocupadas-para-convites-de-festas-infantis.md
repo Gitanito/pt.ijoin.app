@@ -4,6 +4,7 @@ title: O Segredo de Mães Ocupadas para Convites de Festas Infantis
 subtitle: Confirmações de Presença (RSVP) sem Complicações para Aniversários
 tags: [RSVP, Festas Infantis]
 author: ijoin.app
+language: pt
 ---
 
 # O Ponto Final no Caos do RSVP de Festas Infantis

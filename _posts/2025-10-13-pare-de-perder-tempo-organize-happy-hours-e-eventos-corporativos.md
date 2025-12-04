@@ -4,6 +4,7 @@ title: Pare de Perder Tempo - Organize Happy Hours e Eventos Corporativos
 subtitle: A Solução Gratuita Para Confirmar Presença Sem Complicações de Login
 tags: [organização de eventos, confirmação de presença]
 author: ijoin.app
+language: pt
 ---
 
 # Confirmação de Presença Simplificada - Como Lançar Seu Próximo Happy Hour em 3 Minutos

@@ -4,6 +4,7 @@ title: Maximizando a Participação em Eventos Comunitários - O Segredo da Insc
 subtitle: Pare de perder convidados em leituras e rodas de conversa por causa de formulários complexos
 tags: [organização de eventos, gestão de convidados]
 author: ijoin.app
+language: pt
 ---
 
 # Acabe com o Pesadelo das Inscrições - Como Lotar Seu Próximo Evento Comunitário

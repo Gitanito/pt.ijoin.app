@@ -4,6 +4,7 @@ title: Pare de Lutar com Confirmações de Presença para Eventos Escolares
 subtitle: O Segredo para Organizar Festas e Reuniões de Pais Sem Erro e Sem Complicações
 tags: [organização de eventos, confirmação de presença]
 author: ijoin.app
+language: pt
 ---
 # O Fim da Dor de Cabeça na Gestão de Eventos Escolares e Reuniões de Pais
 

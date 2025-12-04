@@ -4,6 +4,7 @@ title: Confirme Presenças de Treinos Sem Dor de Cabeça - O Fim dos Grupos de W
 subtitle: Maximize a Participação da Sua Equipa Desportiva com Confirmações Simples e Rápidas
 tags: [Gestão de Equipa, Confirmação de Presenças]
 author: ijoin.app
+language: pt
 ---
 
 # Confirmação de Presenças para Equipas Desportivas - A Solução que os Treinadores Queriam

@@ -4,6 +4,7 @@ title: Maximize sua Participação em Workshops Criativos
 subtitle: A ferramenta secreta para gerenciar inscrições de eventos sem complicação
 tags: [Gestão de Eventos, Workshop]
 author: ijoin.app
+language: pt
 ---
 # Maximize Sua Participação em Workshops Criativos e Aulas Locais
 

@@ -4,6 +4,7 @@ title: Organizar Mutirões Comunitários ficou Fácil
 subtitle: Otimize a Coleta de Lixo ou Ajuda na Vizinhança Sem Complicações
 tags: [mutirão, vizinhança]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Confusão para Organizar Mutirões e Ações Comunitárias

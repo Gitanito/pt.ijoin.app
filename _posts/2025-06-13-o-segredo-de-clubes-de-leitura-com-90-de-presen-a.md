@@ -4,6 +4,7 @@ title: O Segredo de Clubes de Leitura com 90% de Presença
 subtitle: Livre-se do caos das confirmações de presença e maximize a participação dos seus membros
 tags: gestão de eventos, clube de leitura
 author: ijoin.app
+language: pt
 ---
 
 # Transforme a Gestão do seu Clube de Leitura com Confirmações Imediatas

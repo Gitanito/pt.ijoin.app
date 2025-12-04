@@ -4,6 +4,7 @@ title: Pare de Perder Jogadores- O Convite Perfeito para Noites de Jogos de Tabu
 subtitle: Maximize a participação nos seus eventos de jogos e clubes sociais sem complicações
 tags: [organização de eventos, jogos de tabuleiro]
 author: ijoin.app
+language: pt
 ---
 
 # Pare de Perder Jogadores- O Convite Perfeito para Noites de Jogos de Tabuleiro

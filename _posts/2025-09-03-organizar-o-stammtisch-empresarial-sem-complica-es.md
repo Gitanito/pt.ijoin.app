@@ -4,6 +4,7 @@ title: Organizar o Stammtisch Empresarial Sem Complicações
 subtitle: O segredo para maximizar a presença nos seus encontros de networking local
 tags: [networking, eventos-empresariais]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Planilhas e E-mails Perdidos- Maximize o Networking Local

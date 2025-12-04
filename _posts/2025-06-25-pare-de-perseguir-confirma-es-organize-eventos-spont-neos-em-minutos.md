@@ -4,6 +4,7 @@ title: Pare de Perseguir Confirmações- Organize Eventos Spontâneos em Minutos
 subtitle: A ferramenta gratuita que garante que seus convidados respondam sem complicações
 tags: [organizacao-eventos, RSVP-facil]
 author: ijoin.app
+language: pt
 ---
 # Organize um Flashmob de Piquenique no Parque sem Estresse - A Solução para Eventos Instantâneos
 

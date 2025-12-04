@@ -4,6 +4,7 @@ title: Organizar Grupos de Estudo para Provas - Sem Complicações
 subtitle: Otimize sua preparação para a faculdade com confirmações instantâneas
 tags: [estudos universitários, organização de eventos]
 author: ijoin.app
+language: pt
 ---
 
 # Confirmação Rápida de Presença para Seus Grupos de Estudo Universitário

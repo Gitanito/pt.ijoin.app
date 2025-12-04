@@ -4,6 +4,7 @@ title: Convide Beta Testers Sem Stress - A Solução Que Eles Vão Amar
 subtitle: Maximize a Participação em Testes de Produtos com um Link Simples
 tags: [organizacao-eventos, beta-test]
 author: ijoin.app
+language: pt
 ---
 
 # Convide Beta Testers Sem Estresse - A Solução Que Eles Vão Amar

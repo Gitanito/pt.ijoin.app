@@ -4,6 +4,7 @@ title: Pare de Perder Convidados- O Segredo da Pré-Festa Perfeita
 subtitle: Simplifique a confirmação de presença para seu próximo evento com um link mágico
 tags: [organização-eventos, RSVP-fácil]
 author: ijoin.app
+language: pt
 ---
 
 # Confirmações de Presença Sem Stress - Otimize Seu Próximo Evento Social

@@ -4,6 +4,7 @@ title: Confirmações de Presença Fáceis para Encontros de Ex-Alunos
 subtitle: Maximize a participação em seus eventos de networking sem burocracia
 tags: [Gestão de Eventos, Networking]
 author: ijoin.app
+language: pt
 ---
 
 # Transforme o Encontro de Ex-Alunos em Sucesso de Participação com [ijoin.app](https://ijoin.app/index-pt.html)

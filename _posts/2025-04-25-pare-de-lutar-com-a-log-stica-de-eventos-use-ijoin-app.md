@@ -4,6 +4,7 @@ title: Pare de Lutar com a Logística de Eventos - Use ijoin.app
 subtitle: Maximize a Participação e Simplifique a Organização de Caronas para Eventos
 tags: [organização de eventos, caronas escolares]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Confusão! Como Organizar Caronas para Seu Próximo Evento ou Excursão Escolar

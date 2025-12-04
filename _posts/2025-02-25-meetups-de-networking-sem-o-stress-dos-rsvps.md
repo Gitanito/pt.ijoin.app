@@ -4,6 +4,7 @@ title: Meetups de Networking Sem o Stress dos RSVPs
 subtitle: Como Maximizar a Presença em Eventos Profissionais Informais
 tags: [networking profissional, organização de eventos]
 author: ijoin.app
+language: pt
 ---
 
 # Multiplique a Presença no Seu Próximo Meetup de Networking Profissional

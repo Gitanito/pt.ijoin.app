@@ -4,6 +4,7 @@ title: Pare de Perder Participantes em Seus Passeios de Bike ou Trilhas
 subtitle: Simplifique a confirmação de presença e maximize a adesão a seus eventos esportivos
 tags: [organização de eventos, trilhas e passeios de bike]
 author: ijoin.app
+language: pt
 ---
 
 # O Segredo para Lotação Máxima em Sua Próxima Trilha ou Pedal

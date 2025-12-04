@@ -4,6 +4,7 @@ title: Pare de Perseguir Confirmacoes para a Festa da Rua
 subtitle: A Solucao Gratuita para Organizar Eventos Comunitarios Sem Estresse
 tags: [organizacao-eventos, festa-comunitaria]
 author: ijoin.app
+language: pt
 ---
 
 # A Ferramenta Secreta para Organizar a Festa da Vizinhança e Garantir 100% de Presença

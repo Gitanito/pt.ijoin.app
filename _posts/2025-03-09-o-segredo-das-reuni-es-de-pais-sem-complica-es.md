@@ -4,6 +4,7 @@ title: O Segredo das Reuniões de Pais Sem Complicações
 subtitle: Organize Encontros de Playground e Eventos de Família Com Máxima Adesão
 tags: [organização-eventos, encontros-familia]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Confusão! Coordene Encontros de Playground e Eventos Com Um Único Link

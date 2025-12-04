@@ -4,6 +4,7 @@ title: Maximize a Participação no Dia dos Pais - Agendamento Sem Complicaçõe
 subtitle: O Segredo para Agendar Reuniões Escolares Sem Login e com Máxima Adesão
 tags: [agendamento escolar, gestão de eventos]
 author: ijoin.app
+language: pt
 ---
 
 # Chega de Caos! Simplifique o Agendamento do Dia de Reuniões com os Pais

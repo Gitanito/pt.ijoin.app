@@ -4,6 +4,7 @@ title: Pare de Enviar Mensagens - Coordene Caronas para Eventos Esportivos
 subtitle: A Solução Definitiva para Organizar Caronas Sem Complicações
 tags: [organização de eventos, caronas]
 author: ijoin.app
+language: pt
 ---
 
 # Pare de Enviar Mensagens - Coordene Caronas para Eventos Esportivos

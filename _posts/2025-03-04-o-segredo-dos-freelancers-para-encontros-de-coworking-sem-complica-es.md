@@ -4,6 +4,7 @@ title: O Segredo dos Freelancers para Encontros de Coworking Sem Complicações
 subtitle: Organize reuniões de trabalho espontâneas e produtivas sem burocracia de login
 tags: [coworking, organização-eventos]
 author: ijoin.app
+language: pt
 ---
 
 # O Segredo dos Freelancers para Encontros de Coworking Sem Complicações

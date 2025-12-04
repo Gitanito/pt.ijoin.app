@@ -4,6 +4,7 @@ title: O Segredo para Lotação Máxima no Seu Jantar Pop-up Exclusivo
 subtitle: Maximize Confirmações de Presença em Eventos Secretos Sem Complicações
 tags: [organização de eventos, confirmação de presença]
 author: ijoin.app
+language: pt
 ---
 # O Fim da Dor de Cabeça na Gestão de Convidados para Seu Evento VIP
 
